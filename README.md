@@ -1,5 +1,13 @@
 ### <h1>Projeto criado para a disciplina de programação web<h1>
-
+### Requirements:
+click==8.0.4
+colorama==0.4.4
+Flask==2.0.3
+itsdangerous==2.1.1
+Jinja2==3.0.3
+MarkupSafe==2.1.1
+python-dotenv==0.19.2
+Werkzeug==2.0.3
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=valtemirprocopio&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
