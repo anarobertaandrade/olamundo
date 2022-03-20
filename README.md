@@ -11,7 +11,7 @@
 
 Estudando/trabalhando na **Secretaria de Estado da Educação, da Cultura, do Esporte e do Lazer**<br/>
 
-Eu sou desenvolvedor **front-end**.
+Apaixonado por **front-end**.
 
 
 </p>
