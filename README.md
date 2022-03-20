@@ -6,7 +6,7 @@ Flask==2.0.3<br>
 itsdangerous==2.1.1<br>
 Jinja2==3.0.3<br>
 MarkupSafe==2.1.1<br>
-python-dotenv==0.19.2<br><br>
+python-dotenv==0.19.2<br>
 Werkzeug==2.0.3<br>
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=valtemirprocopio&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
